@@ -10,3 +10,10 @@ def parse_title():
         return None
 
 print(parse_title())
+
+
+def main():
+    print("Hello, Git!")
+
+if __name__ == "__main__":
+    main()
