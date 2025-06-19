@@ -15,11 +15,5 @@ print(parse_title())
 def main():
     print("This is a remote change to create a conflict!")
 
-def main():
-    print("This is a remote change to create a conflict!")
-    
-def main():
-    print("This is a remote change to create a conflict!")
-    
 if __name__ == "__main__":
     main()
