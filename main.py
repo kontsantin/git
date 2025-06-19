@@ -13,7 +13,7 @@ print(parse_title())
 
 
 def main():
-    print("Hello, Git!")
+    print("This is a local change to create a conflict!")
 
 if __name__ == "__main__":
     main()
